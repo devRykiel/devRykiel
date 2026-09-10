@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello I'm Rykiel Nathan Palmes, a Sophomore IS student. 
+
+## Just sharing and storing my projects here :) 👋
 
 <!--
 **devRykiel/devRykiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
